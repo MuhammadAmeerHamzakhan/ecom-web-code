@@ -1,4 +1,4 @@
-# Welcome to AMEER HAMZA ECOM React Ecommerce Website Series
+# Welcome to AMEER HAMZA React Ecommerce Website
 
 
 
